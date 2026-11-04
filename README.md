@@ -1,6 +1,6 @@
 # Liveness Detection — Data Collector
 
-A mobile-first web app for collecting multimodal biometric data to train and evaluate face liveness detection models. Built as part of the **GSync Liveness Detection** research project at KBTG.
+A mobile-first web app for collecting multimodal biometric data to train and evaluate face liveness detection models. Built as part of the **GSync Liveness Detection** project at Samsung x KBTG Digital Fraud Cybersecurity Hackathon.
 
 ---
 
